@@ -39,6 +39,8 @@ form .display input{
     font-size: 45px;
     box-shadow: none;
     border: 1px solid;
+    font-family: "Protest Riot", sans-serif;
+    font-size: 30px;
 }
 form input.equl{
     width: 145px;
@@ -46,4 +48,10 @@ form input.equl{
 
 form input.top{
     color: aqua;
+    font-family: "Protest Riot", sans-serif;
+    font-size: 22px;
+}
+form input.number{
+    font-family: "Protest Riot", sans-serif;
+    font-size: 20px;
 }
